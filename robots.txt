@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aderwory.github.io/sitemap
+Sitemap: https://aderwory.github.io/app/sitemap
+Sitemap: https://aderwory.github.io/assets/sitemap
+Sitemap: https://aderwory.github.io/css/sitemap
+Sitemap: https://aderwory.github.io/includes/sitemap
+Sitemap: https://aderwory.github.io/item/sitemap
+Sitemap: https://aderwory.github.io/src/sitemap
